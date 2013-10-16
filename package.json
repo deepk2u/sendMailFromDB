@@ -1,0 +1,11 @@
+{
+    "name": "monitoring"
+  , "description": "monitoring"
+  , "author": "Deepak Kumar <deepk2u@gmail.com>"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "mysql": "*",
+      "nodemailer": "*"
+  }
+}
